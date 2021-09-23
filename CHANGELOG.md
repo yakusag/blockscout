@@ -1,6 +1,7 @@
 ## Current
 
 ### Features
+- [#4690](https://github.com/blockscout/blockscout/pull/4690) - Improve pagination: introduce pagination with random access to pages; Integrate it to the Transactions List page
 
 ### Fixes
 - [#5025](https://github.com/blockscout/blockscout/pull/5025) - Add standard input JSON files validation
