@@ -1,7 +1,3 @@
-/**
- * @jest-environment jsdom
- */
-
 import { formatUsdValue } from '../../js/lib/currency'
 
 test('formatUsdValue', () => {
